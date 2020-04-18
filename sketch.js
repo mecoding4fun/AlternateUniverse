@@ -74,6 +74,7 @@ function draw() {
   }
 
 
+  sun.rotation+=1;
   planet1.rotation+=3;
   planet2.rotation+=1;
   planet3.rotation+=0.7;
